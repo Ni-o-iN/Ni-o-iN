@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ni-o-iN
 - 👀 I’m interested in useless knowledge
 - 🌱 I’m currently learning everthing
-- 💞️ I’m looking to collaborate on idk
+- 💞️ I’m looking to collaborate on (idk)
 - 📫 How to reach me here
 
 <!---
