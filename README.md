@@ -18,9 +18,3 @@ I have completed my **B.Sc. in Computer Science** at TH Mannheim and building pr
 🚴 **BikeRiders** - Traffic route optimization for cyclists  
 
 *Currently developing additional data/AI projects...*
-
----
-
-## 📫 Contact  
-
-💼 [LinkedIn](www.linkedin.com/in/nico-ohler-5a88b5309)
