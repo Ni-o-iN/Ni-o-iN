@@ -23,4 +23,4 @@ I have completed my **B.Sc. in Computer Science** at TH Mannheim and building pr
 
 ## 📫 Contact  
 
-💼 [LinkedIn](your-link)
+💼 [LinkedIn](www.linkedin.com/in/nico-ohler-5a88b5309)
